@@ -1,0 +1,6 @@
+.gradient-bar {
+  width: 100%;
+  height: 15px;
+  background-image: linear-gradient(to right, white, black);
+  border-radius: 0.25rem;
+}
